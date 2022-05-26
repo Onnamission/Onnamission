@@ -7,7 +7,7 @@ on:
   push: { branches: ["main"] }
 
 env:
-  COLOR: blue
+  COLOR: 00ff00
 
 jobs:
   update-profile-views:
