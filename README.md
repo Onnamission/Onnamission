@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Aditya Kakde 👋 </h1>
+<h1 align="center"> Hi 👋, I'm Aditya Kakde <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 <h3 align="center"> I'm an Analyst and a Researcher!! </h3>
 
@@ -11,6 +11,8 @@
 - 👯 I’m looking to collaborate with **industry experts**.
 - 📫 How to reach me: **@Onnamission**
 - ⚡ Fun fact: I love to play **games**.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ### Languages and Tools:
 
