@@ -9,7 +9,7 @@
 - 🔭 I am currently working on **analytics projects**.
 - 🌱 I’m currently learning **analytics stuff**.
 - 👯 I’m looking to collaborate with **industry experts**.
-- 📫 How to reach me: **@Onnamission**
+- 📫 How to reach me: **[@Onnamission](https://www.github.com/Onnamission)**
 - ⚡ Fun fact: I love to play **games**.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
