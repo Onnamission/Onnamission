@@ -20,7 +20,7 @@
 <img align="left" alt="R Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Postgre SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Tableau" width="40px" src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" style="padding-right:10px;"/>
-<img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" style="padding-right:10px;"/>
+<img align="left" alt="Excel" width="40px" src="Images/excel.png" style="padding-right:10px;"/>
 <img align="left" alt="Powerpoint" width="40px" src="Images/powerpoint.png" style="padding-right:10px;"/>
 <img align="left" alt="Gimp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Latex" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="padding-right:10px;"/>
