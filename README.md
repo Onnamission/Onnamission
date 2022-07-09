@@ -6,8 +6,8 @@
 
 ![](https://bit.ly/3MVTB5o)
 
-- 🔭 I am currently working on **analytics/analysis projects**.
-- 🌱 I’m currently learning **analytics/analysis stuff**.
+- 🔭 I am currently working on **analytics projects**.
+- 🌱 I’m currently learning **analytics stuff**.
 - 👯 I’m looking to collaborate with **industry experts**.
 - 📫 How to reach me: **[@Onnamission](https://www.github.com/Onnamission)**
 - ⚡ Fun fact: I love to play **games**.
